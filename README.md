@@ -6,6 +6,10 @@ iOS ESP (Extra Sensory Perception) mod for Hide Online Unity game using IL2CPP h
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
 
+## 📸 Preview
+
+![Preview](preview.jpg)
+
 ## ⚠️ Disclaimer
 
 This project is for **educational purposes only**. Use responsibly and at your own risk. The developers are not responsible for any consequences resulting from the use of this software.
@@ -129,6 +133,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 # Hide Online Unity ESP - IL2CPP (Tiếng Việt)
 
 Mod ESP (Extra Sensory Perception) cho game Hide Online Unity trên iOS sử dụng công nghệ hook IL2CPP.
+
+## 📸 Xem Trước
+
+![Preview](preview.jpg)
 
 ## ⚠️ Lưu Ý
 
