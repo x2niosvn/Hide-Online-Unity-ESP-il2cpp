@@ -1,0 +1,8 @@
+Package: com.hitrock.hideonline
+Name: HIDE ONLINE ESP
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: HIDE ONLINE ESP
+Maintainer: X2NIOS
+Author: X2NIOS
